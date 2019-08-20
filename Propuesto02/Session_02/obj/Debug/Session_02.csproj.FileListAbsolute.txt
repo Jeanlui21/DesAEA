@@ -1,0 +1,10 @@
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.Form1.resources
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.Properties.Resources.resources
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.csproj.GenerateResource.cache
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\Session_02\Session_02\bin\Debug\Session_02.exe.config
+C:\Users\jeanl\source\repos\Session_02\Session_02\bin\Debug\Session_02.exe
+C:\Users\jeanl\source\repos\Session_02\Session_02\bin\Debug\Session_02.pdb
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.exe
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.pdb
+C:\Users\jeanl\source\repos\Session_02\Session_02\obj\Debug\Session_02.csprojAssemblyReference.cache
