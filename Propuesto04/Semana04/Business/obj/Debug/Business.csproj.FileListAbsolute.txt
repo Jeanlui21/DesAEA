@@ -1,0 +1,11 @@
+C:\Users\jeanl\source\repos\Semana04\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\jeanl\source\repos\Semana04\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Business.dll
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Business.pdb
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Data.dll
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Entity.dll
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Data.pdb
+C:\Users\jeanl\source\repos\Semana04\Business\bin\Debug\Entity.pdb
+C:\Users\jeanl\source\repos\Semana04\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\jeanl\source\repos\Semana04\Business\obj\Debug\Business.dll
+C:\Users\jeanl\source\repos\Semana04\Business\obj\Debug\Business.pdb
